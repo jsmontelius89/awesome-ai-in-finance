@@ -305,6 +305,7 @@ Do it in real world!
 - [Registry Broker](https://github.com/hashgraph-online/hashnet-mcp-js) - Universal AI agent index for discovering trading agents across Virtuals Protocol, NANDA, MCP, and other registries.
 - [KeepRule](https://keeprule.com) - AI-powered investment discipline tracking platform with curated principles from 26 legendary investors including Buffett, Munger, and Dalio. Helps traders maintain rational decision-making.
 - [Philidor](https://docs.philidor.io/docs) - DeFi risk infrastructure for AI agents: MCP server and REST API for vault risk scores, portfolio analysis, and due diligence. No API key. 700+ vaults, 9 protocols, 6 chains.
+- - [Congressional Stock Brain](https://congressionalstockbrain.com) - AI-powered platform that scores every U.S. Lawmaker STOCK Act trade disclosure for signal strength, providing retail investors with real-time data on politician stock trades.
 
 #### Other Resource
 
